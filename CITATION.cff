@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite the Ah-miu blog post below."
+title: "Ah-miu-code"
+type: software
+authors:
+  - family-names: Ke
+    given-names: Jinghan
+    orcid: "https://orcid.org/0009-0003-3776-6544"
+  - name: "Ah-miu Team"
+repository-code: "https://github.com/Ah-miu/Ah-miu-code"
+url: "https://ah-miu.github.io/blog/Ah-miu/"
+preferred-citation:
+  type: blog
+  title: "Ah-miu: Rethinking the Gaps Between Physical AI and Us, from Machines to Human Needs"
+  authors:
+    - family-names: Ke
+      given-names: Jinghan
+      orcid: "https://orcid.org/0009-0003-3776-6544"
+    - name: "Ah-miu Team"
+  year: 2026
+  url: "https://ah-miu.github.io/blog/Ah-miu/"
